@@ -57,6 +57,11 @@ Includes 10+ saved charts with insights such as:
 - Sleep imbalance (too low or too high) also links to BMI spikes
 
 ---
+##  What I Learned
+- How lifestyle variables impact BMI and health outcomes
+- Risk classification using business logic, not ML
+- Translating messy health behavior data into visual insights
+
 
 ##  Folder Structure
 lifestyle_health_analysis/
