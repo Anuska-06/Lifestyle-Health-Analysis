@@ -32,7 +32,7 @@ This project explores how daily lifestyle habits such as **sleep**, **water inta
   - Lifestyle Score using combined habits
   - Risk Classification
 - **Visualizations**: Correlation heatmaps, BMI trends, multivariate scatter plots
-- **Plot Saving**: All charts saved under `/images` for reuse
+- **Plot Saving**: All charts saved under `/lifestyle_visuals` for reuse
 
 ---
 
