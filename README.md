@@ -61,8 +61,5 @@ Includes 10+ saved charts with insights such as:
 ##  Folder Structure
 lifestyle_health_analysis/
 ├── lifestyle_health_analysis.ipynb # Jupyter Notebook with code & plots
-├── images/ # All saved plots as .png
-├── dataset/
-│ └── healthy_lifestyle.csv
 ├── visual_summary_report.pdf # Visual PDF for quick review
 └── README.md # This file
